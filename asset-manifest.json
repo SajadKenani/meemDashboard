@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meemDashboard/static/css/main.ae459bda.css",
+    "main.js": "/meemDashboard/static/js/main.942155fe.js",
+    "static/js/453.eed069a1.chunk.js": "/meemDashboard/static/js/453.eed069a1.chunk.js",
+    "index.html": "/meemDashboard/index.html",
+    "main.ae459bda.css.map": "/meemDashboard/static/css/main.ae459bda.css.map",
+    "main.942155fe.js.map": "/meemDashboard/static/js/main.942155fe.js.map",
+    "453.eed069a1.chunk.js.map": "/meemDashboard/static/js/453.eed069a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae459bda.css",
+    "static/js/main.942155fe.js"
+  ]
+}
